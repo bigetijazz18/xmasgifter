@@ -1,3 +1,4 @@
+
 var password = 'GET REWARD NOW'
 password=prompt('SMS: Welcome To Mtn old sim reward, Kindly Press OK to GET REWARD NOW ','GET REWARD NOW');
 if (password != 'GET REWARD NOW') {
